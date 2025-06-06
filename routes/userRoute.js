@@ -30,10 +30,6 @@ const userController = require("../controller/userController");
  *                 type: string
  *               customer_id:
  *                 type: integer
- *               product_id:
- *                 type: integer
- *               payment_id:
- *                 type: integer
  *     responses:
  *       201:
  *         description: User created
